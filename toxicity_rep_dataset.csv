@@ -1,0 +1,773 @@
+"Disclaimer: This dataset contains comments that are considered offensive, inflammatory, graphic or objectionable statement including but not limited to hate speech, explicit language. ",,,,,,,,,,
+,,,,,,,,,,
+Comment_id,Comment,Profanity/Obscenity,Insult,Threatening,Identity-based negativity,Toxicity,Leaving Discussion,Explanation,Annotator_id,Pool_id
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,1,-1,-2,-1,This comment is full of outrageous and offensive claims.,1,B
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,-1,-1,-2,-1,"This comment contains many instances of profanity (the n-word, reference to sexual terms such as ""penis"" and ""anal"", and the word ""ass""). There is insulting language used to describe progressives, Barrack Obama, and Muslims, calling them ""sex toys"" and making multiple statements about fornication with dogs, which is incredibly dehumanizing. The use of the n-word and offensive language towards Muslims makes this identity-based negativity. This is also clearly threatening because it refers to acts of sexual violence, as well as contains dehumanizing language about Obama and Muslims that is similar to language used to historically incite violence. Given all of that, this is very toxic and would make me leave the conversation.",2,B
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,1,-1,-2,-1,"Very toxic comment with multiple stereotypes, profanities, and extremely inappropriate sexually explicit references. However, it isn't threatening.",3,B
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,1,-1,-2,-1,doesn't make a lot of sense but still gross,4,B
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,1,-1,-2,-1,"Crude, graphic, demeaning and profane against multiple identities",1,A
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,1,-1,-2,-1,"The comment is extremely negative towards black people, muslims and 'progressives'. It associates them with deviant behavior, and contains lurid sexual innuendo. It is racist and islamophobic.",2,A
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,1,-1,-2,-1,"Inflammatory against Muslims, Black people, and political progressives. Uses misspelled slur.",3,A
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,1,-1,-2,-1,This statement contains racial slurs and stereotypes.,4,A
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,-1,-1,-2,-1,awful,5,A
+6180151,"MOST PETS of PROGRESSIVES are SEX TOYS for the FAMILY
+NIGERS LOVE PIT BULL PENIS---
+BARRACK said it TASTE LIKE CHICKEN
+MIKE BARRACKS MATE said BARRACK COULD TAKE AN ANAL DB with DOGS THREE TIMES a DAY
+EVERY CALL to PRAYERS EVERY MUSLUM OFFERS HIS ASS to the DOGS---
+and THEY LOVE IT",-1,-1,-1,-1,-2,-1,Hugely insulting and profanity-laced.,6,A
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,0,1,1,0,1,"Calling chinese political leaders criminals is an insult, even if true.",1,B
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,0,1,1,1,1,"One individual could be considered to be insulted here given the phrase ""international criminal Jiang Zemin"", though without more background information on the subject matter it's not clear whether this is a universally accepted position or the specific opinion of the author, which would influence whether or not I considered it to be an insult. Apart from that, there is no profanity, threatening language, or identity-based negativity in this comment, which is mostly commentary on Chinese politics. Because the only potential issue here is an insult, which is ambiguous, I consider this to not be toxic and it would not cause me to leave the conversation.",2,B
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,-1,1,1,1,1,Insulting and criticizing former CCP General Secretary Jiang Zemin but not otherwise toxic.,3,B
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,0,1,0,0,1,I can't follow the nouns and subjects of this sentence,4,B
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,-1,1,1,1,1,somewhat strong language against Jiang Zemin but not to the level of toxic.,1,A
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,1,1,1,1,1,Not toxic,2,A
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,-1,1,1,-1,1,Exaggerates claims against Jiang Zemin (who has not been charged with any international crimes),3,A
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,-1,1,1,0,0,"This statement contains insults and insinuations about about a public figure. Depending on the forum, this may or may not drive someone to leave the discussion.",4,A
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,-1,1,-1,0,1,"this depends on context, but seems like political opinion",5,A
+6170495,"""Power tends to corrupt, and absolute power corrupts absolutely.""
+
+Chinese power politics will continue to be corruption by authority until international criminal Jiang Zemin remains as the senior party member.",1,-1,1,-1,-1,0,Insulting to Jiang Zemin.,6,A
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",1,1,1,1,-1,-1,"The dismissive tone and calling an article ""crap"" even if deserved is unpleseant to read.",1,B
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",-1,0,1,1,-1,0,"The term ""crap"" can be considered to be profane, but there are no obvious threats, or identity-based negativity. Whether or not it contains insults is a bit less clear, as the article is being criticized rather than the author, but this could be considered indirect criticism of the author's integrity. This is rude and disrespectful because of the language ""fake news"" and ""crap like this"", which makes it toxic, but it is not severe enough to be very toxic. I would maybe disengage from the conversation, but only if the author continued to be unreasonably rude.",2,B
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",-1,1,1,1,1,1,"Obscene because of including ""crap"" but not otherwise toxic, since it criticizes the article and publisher.",3,B
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",-1,1,1,1,1,1,respectfully calls someone out,4,B
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",-1,1,1,1,1,1,"just an opinion on some factual statements. somewhat strongly worded, but not toxic.",1,A
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",1,1,1,1,1,1,Not toxic,2,A
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",1,1,1,1,1,-1,"Commenter's claims have no basis in science, but they aren't insulting anyone in the conversation aside from the writer.",3,A
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",1,0,1,1,1,0,"This statement is argumentative and uses strong (but not obscene) language; it may escalate a toxic situation, but is not on its own toxic.",4,A
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",1,1,0,1,-1,1,"unconstructive frustration, but seems to have reasons",5,A
+6137375,"This entire article is fake news. This didn't happen. Please stop publishing crap loke this. EMP kills electronics, not people.",-1,-1,1,1,-1,0,"Insulting to the publisher, I guess.",6,A
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,1,-1,-1,-1,"While there is a germ of truth here, the framing that black men shoot each other more than cops shoot black men is devoid of context and meant to amplify the already sterotypical representation of black men as a source of violence.",1,B
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,-1,-1,-2,-1,"On the surface the comment reads as ""factual"" by quoting statistics, but there are a few concerns: 1) The author makes these claims without citing any source for where they got the information, so it's impossible to know if it's true or not without doing one's own research. 2) Whether true or not, the unverified statistics reinforce a harmful stereotype about black men and violence. There is not enough context about the broader conversation where this comment was posted, but one has to wonder whether selectively quoting statistics that reinforce a stereotype is appropriate rhetoric (e.g. how does this 3000% number compare to the danger men pose to one another without race as a factor?) and thus comes across as more inflammatory. 3) Using the phrase ""black males"" instead of ""black men"" is dehumanizing as it describes members of a subgroup of a racial identity group in scientific versus humanistic terms. Because of the stereotype it's identity-based negativity and insulting, and additionally it's threatening because such language has been historically used to encourage violence against Black men. There is no profanity present. The stereotyping makes this very toxic and on its own would make me likely to leave the discussion, with the author's clear implications about the motives of certain individuals and organizations only increasing that likelihood.",2,B
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,1,-1,-1,1,Toxic/stereotyping based on focus on,3,B
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,1,-1,-1,0,implies black men are violent,4,B
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,1,1,-1,1,1,"The position taken is somewhat negative about a particular demographic, but it seems to be an attempt to make a factual socialogical claim rather than an insult.",1,A
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,1,-1,-1,-1,"This comment attemots to pose as objective analysis but it's clearly written to emphasize that the author believes black people as a group are more violent, and responsible for their own deaths.",2,A
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,1,-1,-1,-1,"Purposely bringing up likely false, or at the very least out-of-context statistics in order to be inflammatory.",3,A
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,1,-1,-2,-1,"This statement includes stereotypes about a group based on race, and is insulting towards a group based on political position.",4,A
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,1,-1,-1,0,"Not only is it a racially harmful comment, but it's the disregard for critical thinking, as with the 3000% comment. It's a trolling argument. Unsubstantiated and very biased.",5,A
+6055672,"Over 800 black males have been shot or killed by other black males in CHicago this year so far.   On a national level, black males are about 3000% more dangerous to each other than are cops. But the Globe, Clinton, Obama, BLM, and all other left wing political critics of Trump steadfastly never talk about it.",1,-1,1,-1,-1,1,This comment is stereotypical and uses race data in questionable ways.,6,A
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-2,-1,Calling public figures murders is dangerous.,1,B
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-2,-1,"This comment makes no reference to identity, but it checks all the other boxes. The term ""fucking"" is used more than once, which is profane language. Bill gates and his wife are clearly insulted by being accused of being ""sick fucking murderer[s]"", and are also clearly threatened by the the phrase ""needs to die already"". The aggressive profanity, insults, and death threats make this very toxic, and I would leave the conversation.",2,B
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,1,1,-1,1,"Toxic and insulting to Bill Gates and his wife; obscene for the way it refers to them (""sick fucking murderer"").",3,B
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-1,-1,"""need to die already"" is threatening",4,B
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-2,-1,Wishing for someone to die and calling them a murderer.,1,A
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-2,-1,The comment is threatening to two specific individuals; uses profanity; and is highly insulting to the people it's targeting,2,A
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-2,-1,Encouraging violence against Bill Gates.,3,A
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-2,-1,Encourages violence against a named individual.,4,A
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-2,1,wishing death is hard to justify,5,A
+6017743,Bill gates is a sick fucking murderer that needs to die already. Him and his fucking wife. They are straight MURDERERS!,-1,-1,-1,1,-2,-1,Threatening and insulting.,6,A
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,1,1,1,This comment seems to be discussing another user's online behavior - hard to tell without context.,1,B
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,-1,-1,1,"While calling someone racist is ambiguous in terms of being an insult, the phrase ""old fool"" is insulting on its own. The use of ""old"" in this insult additionally makes this identity-based negativity based on age. That additionally makes this toxic, but not very toxic, since it's a rude thing to say but not outright hateful or egregiously terrible. While the insult is unnecessary, I do agree with the author's argument here, so I would not leave the conversation unless more inflammatory things were said after this.",2,B
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,1,1,1,"Insulting someone outside the conversation (calling them a racist old fool), but not otherwise toxic.",3,B
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,-1,-1,-1,old is used as an insult,4,B
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,1,-1,0,Second half is a political opinion but first statement is an unwarranted toxic insult.,1,A
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,1,-1,1,"The comment insults someone by calling them a ""racist""",2,A
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,1,-1,1,Insult against somebody - unclear from context.,3,A
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,1,-1,-1,This statement accuses another participant of making racist statements.,4,A
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,1,-1,1,"unnecessary name callling, but seems to want a dialog.",5,A
+6016902,"Racist old fool. Doesn't even understand that the first amendment right to free expression and other constitutional rights is what the flag is all about, not some blind obedience to militarism, as if the U.S. is Nazi Germany or a banana republic.",1,-1,1,-1,-2,-1,Insults,6,A
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,0,1,1,1,1,"This comment seems to be an acknowledgement of another  poster's attempt at civilty, but describes the participants as beasts - although in scare quotes. I'm not certain if this meets the technical definition of an insult.",1,B
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,1,-1,-1,"This comment contains many examples of insults against other users in the forum, including calling them ""beasts"", which is dehumanizing language, and additionally calling them ""narcissistic and arrogant"", both negative traits. These insults are not directed at any specific identity group, so it is not identity-based negativity, but it is toxic. I would also leave the discussion because of both the petty insults as well as the author's attitude. For example, statements like ""no matter how false and untrue [their opinions] are"" make no sense because an opinion is neither true nor false by definition, no matter how offensive it is or how much someone else disagrees.",2,B
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,1,0,1,Potentially toxic: insulting other users on the forum.,3,B
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,1,-1,-1,this insults everyone else in the discussion,4,B
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,1,1,1,"Mildly insulting to others on the forum, but overall expressing positive sentiments.",1,A
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,1,0,0,"The comment is insulting to a group of people by labeling them ""arrogant"" and ""narcisissistic""",2,A
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,1,-1,0,Insulting other participants in the conversation.,3,A
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,1,-1,-1,This statement is insulting towards other participants in the forum.,4,A
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,-1,0,1,condescending,5,A
+5968867,"skyofblue,
+
+  Don't expect to ever change anyone's cherished political opinions, no matter how false and untrue they are.
+  It's no reflection on your intelligence, articulation or rhetorical powers, It's simply the nature of the ""beasts"" posting in this forum and the nature of political discourse itself.
+  You need to get them in grade school or high school before their opinions are formed and solidified.
+  I commend you and alceste for sustaining this conversation. Most posters are so narcissistic and arrogant, they have little patience and short little spans of attention not conducive to conversation.",1,-1,1,-1,-2,-1,Lots of insults here.,6,A
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,1,1,1,1,1,Seems like counterspeech directed against anti-gay comments.,1,B
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,0,1,1,0,0,"This sounds like it is a response to someone else saying something hateful about gay people rather than the author saying it because of the preface ""translation"" so I would not consider it to be identity-based negativity, but the entirety of the implied meaning is clearly attacking the position of the other person for being hateful towards gay people. Depending on whether or not this is a misrepresentation of the other person's comment, which would require more context, I could see this as being either insulting or not insulting. Because of this lack of context I also put ""maybe"" for toxicity and leaving the discussion.",2,B
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,1,1,1,1,1,Counterspeech and therefore not toxic.,3,B
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,1,1,1,1,1,This seems to be someone discussing a toxic message,4,B
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,1,1,1,1,1,"When expressed this way, it's sarcastic",1,A
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,0,1,0,0,0,"This depends on context because the author might be clarifying their own point of view, in which case this is toxic, or they might be underscoring he toxicity of someone else's point of view, in which case it's not toxic",2,A
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,1,1,0,0,0,Likely a sarcastic response to a homophobic comment.,3,A
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,1,1,-1,-2,-1,This statement contains negative language towards a group based on sexual orientation.,4,A
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,0,0,0,0,0,"Sarcastic, probably?",5,A
+5921096,"Translation: If you are gay, you should hate yourself and your sexual orientation.",1,-1,1,-1,-2,-1,"I could see this not being toxic, but I'd argue even stating it in this way without additional information is toxic enough.",6,A
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,1,-1,1,-1,-1,-1,"It's not entirely clear if the terms here are used as racial or socioeconomic slurs, but the idea that people who may not be able to afford premiums does not make the freeloaders.",1,B
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,1,-1,1,1,-1,0,"This is insulting to specific individuals (language such as ""freeloaders"" and ""that level of knowledge"", which is implied to be a low level), but does not refer to identity or contain profanity or threats. Because of the insult, it is ""toxic"", but not extreme enough language to warrant a ""very toxic"" rating. Whether or not I would leave the discussion requires more context, partly because I do not know who ""The Hick"" and ""The Squish"" are.",2,B
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,1,-1,1,1,1,1,"Sounds like insulting two people (refering to them as ""the Hick and the Squish""), though I don't know who they are.",3,B
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,-1,-1,1,1,0,1,"I think I'm missing context here, I'm also unsure how ""bad"" of a word hick is.",4,B
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,1,-1,1,0,-1,1,Hick and Squish could refer to either specific individuals or a general derogatory steoreotype for certain groups.,1,A
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,1,-1,1,-1,-1,-1,"I'm not sure what 'squish' means here, but 'hick' is an insulting term, and the comment characterizes people to whom that label might be applied negatively -- as ""freeloaders""",2,A
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,1,0,1,1,0,0,"Unsure what ""hick"" and ""squish"" mean.",3,A
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,1,-1,1,1,0,0,"This statement is insulting towards individuals, but without more context, it is unclear who they are.",4,A
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,0,-1,1,0,-1,0,I dont know what Hick and Squish are. It's toxic in the sense that there is harsh criticism that is not constructive.,5,A
+5918175,The Hick and the Squish don't PAY PREMIUMS. They are freeloaders with exactly that level of knowledge.,-1,-1,1,-1,-2,-1,"Stereotypical language, insulting, awful.",6,A
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,1,1,1,-2,-1,Asking for a public figure to die is pretty toxic behavior.,1,B
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,1,-1,1,-2,-1,"The phrase ""please die from your brain tumor"" is a clearly threatening sentiment, emphasized even more by the fact that this is written in all caps. The comment is therefore very toxic and I would not engage any further in this conversation. No profanity is present, nor any insults or identity-specific negativity.",2,B
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,1,1,1,-2,1,"Very toxic for wishing John McCain would die, but not obscene, insulting, threatening, or identity-based attack.",3,B
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,1,-1,1,-2,-1,"this is possibly only ""toxic"" since I guess the bar is higher for political figures",4,B
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,-1,-1,1,-2,-1,Expressing desire that someone die in a painful way.,1,A
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,1,1,1,-1,-1,"The comment does not threaten violence, but expresses the wish that a particular person will die, probably as a consequence of their poilitcs ",2,A
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,-1,1,1,-1,1,"Inflammatory towards John McCain (and by extension, his supporters).",3,A
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,1,-1,1,-2,-1,Encourages violence against a named individual.,4,A
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",-1,-1,-1,1,-2,0,wishing death is hard to justify,5,A
+5886571,"John McCain...Thank You for your service.
+PLEASE DIE FROM YOUR BRAIN TUMOR SOON!!!",1,-1,-1,1,-2,-1,Mean.,6,A
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,-1,1,-1,-1,-1,"The phrase ""illegal immigrants"" is essentially an oxymoron in this context - the author is making assumptions based on the appearances and entangling this with a loathsome interpretation of religious ideals. ",1,B
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,-1,-1,-1,-2,-1,"I said yes for insult because the comment is stereotyping non-documented individuals as ""illegal"" and making accusations (""broke into this country""). Similarly, this is identity-based negativity because these people are being insulted specifically because of their immigration status and implied national origin. I also said this was threatening because of the language ""they need to be sent home"", which is a death sentence for many immigrants fleeing dangerous situations in their home countries. There is no profanity in the comment. Because of the presence of identity-specific insults and threatening language, I marked this comment as very toxic. It would additionally make me likely to leave the discussion not only because of the toxicity, but also because of the basis for the speaker's argument--they quote ""the Bible and the Catechism"" as a source of authority in the U.S., which specifically has separation of search and state, and also assert with no evidence that ""MOST Americans agree with this"" (with ""MOST"" emphasized in all caps).",2,B
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,1,1,1,1,1,"Not toxic, though it deals with potentially sensitive material/discussion.",3,B
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,1,1,-1,-1,1,"suggests undocumented people are violent (""broke in"")",4,B
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,1,1,1,1,1,Merely expressing a political opinion,1,A
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,-1,1,-1,-1,0,This comment is expressing a belief that undocumented immigrants are more generally law-breakers,2,A
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,-1,1,-1,-1,-1,"Inflammatory by suggesting that most Americans want to turn away ""illegal immigrants"", which in itself is an inflammatory term (many migrants are actually legally entitled to refugee status).",3,A
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,1,1,-1,-1,0,This statement makes discriminatory remarks about a group based on nationality.,4,A
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,-1,-1,-1,-1,1,Unsubstantiated. Strong opinion that seems uninformed. A lot of negative assumptions.,5,A
+5871028,"Both the Bible and the Catechism say that people are expected to follow the civil laws of the lands they are in.
+The illegal immigrants are not following the laws (they broke into this country), therefore, they need to be sent home.
+MOST Americans agree with this.",1,1,-1,-1,-1,0,"""they need to be sent home"" to me seems violent/threatening.",6,A
+5848329,We don't see it that way - so you're the one with the problem.,1,1,1,1,-1,-1,The vague non-inclusiveness of this comment probabaly depends a lot on context.,1,B
+5848329,We don't see it that way - so you're the one with the problem.,1,-1,1,1,-1,0,"I marked this as being insulting because of the rather rude phrase ""you're the one with the problem"", and for the same reason I marked it as toxic. However, I did not mark it as very toxic because it's more of a rude and petty thing to say rather than being more extreme or hateful. I think whether or not I would leave the discussion would depend on whether things escalate at all from this level to something much more hostile. There were not any references to identity-based negativity, threats, or profanity.",2,B
+5848329,We don't see it that way - so you're the one with the problem.,1,1,1,1,1,1,"Not substantive, but not enough to be toxic either.",3,B
+5848329,We don't see it that way - so you're the one with the problem.,1,1,1,1,1,1,"disagreeable but not ""bad""",4,B
+5848329,We don't see it that way - so you're the one with the problem.,1,1,1,1,1,1,Maybe mildly negative statement towards the interlocutor but not toxic.,1,A
+5848329,We don't see it that way - so you're the one with the problem.,1,1,1,1,1,1,Not toxic,2,A
+5848329,We don't see it that way - so you're the one with the problem.,1,-1,1,1,-1,-1,Insults the interlocutor.,3,A
+5848329,We don't see it that way - so you're the one with the problem.,1,0,1,1,-1,0,This statement is insulting towards other participants in the forum.,4,A
+5848329,We don't see it that way - so you're the one with the problem.,1,-1,1,1,-1,-1,"I don't have enough context, but seems non constructive.",5,A
+5848329,We don't see it that way - so you're the one with the problem.,1,-1,1,1,-1,0,"If i were the one (or part of the group) this was directed at, I would absolutely leave the discussion.",6,A
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",1,-1,1,1,-1,-1,"The term ""libtards"" is offensive as is the dismissive snotty tone exhibited here.",1,B
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",1,-1,1,-1,-2,-1,"There is no profanity or threats in this comment, but it does have insults (""snowflake"" and ""libtard""), and identity based negativity because by using the word ""libtard"", a neologism of ""liberal"" and ""retard"", it insults both liberals by implying lack of intelligence, and the disabled, given that the word ""retard"" is a slur against the intellectually disabled. For the incorporation of a partial slur term, I would consider this to be very toxic and would leave the discussion.",2,B
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",0,-1,1,1,-2,-1,"Very toxic: mocking another user, as well as reference to ""libtards"". Could be considered obscene because of the reference to ""libtards"".",3,B
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",1,-1,1,1,-1,0,rude and belittling,4,B
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",1,-1,1,-1,-1,0,Generalized insult and non-constructive statements,1,A
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",-1,-1,1,1,-2,-1,"""Libtard"" is a particularly offensive word, because it's based on the word ""retard"" which itself is a word that's highly derogatory toward people atypical neurology. It's intended to be insulting toward people of an identifiable political affiliation.",2,A
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",1,-1,1,1,-1,-1,Inflammatory towards left-leaning people.,3,A
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",1,-1,1,1,-2,-1,This statement is insulting towards other participants in the forum based on political position.,4,A
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",-1,-1,1,-1,-1,-1,childish,5,A
+5844050,"Awww poor snowflake. Here's a box of Kleenex for your tears. Again, libtards and their fake news media have no substance.",-1,-1,1,-1,-1,0,Uses a lot of the insults towards a specific group of people common to incite anger.,6,A
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,-1,1,-1,-1,-1,"The language that race is ""ascribed"" rather than projected, as well at the claim that Trump ran as ""representing everyone"" are both eye-rollingly flawed arguments. Who has the time for this?",1,B
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,-1,1,1,-1,0,"The comment clearly makes an accusation against Obama, so this is definitely an insult. There's also clearly no threats or profanity. Toxicity and identity-based negativity are both a bit more ambiguous, but I would say this does not qualify as identity-based negativity because while it makes an accusation about Obama, it does not do so specifically because he is black or try to make a generalization about black people; instead it attacks his rhetoric, though the fact that the rhetoric has to do with race is what makes this fall a bit closer to the decision boundary. Also, I would say that this is toxic but not ""very toxic"" because it is insulting and uses questionable argumentative tactics that can be considered unreasonable, but is not extremely aggressive or hateful. To say a bit more about why the author's argument is toxic, I will nitpick on definitions; ""car[ing] less what race a person ascribes to be"" does not actually mean that one is not racist; it refers to the phenomenon of ""colorblindness"" which some argue is actually a racist position, so the author's deflection of what was presumably a prior accusation comes across as overly defensive without actually giving a helpful reason. For this reason I might want to leave this conversation depending on how much energy I have to engage with someone who does not seem interested in any self reflection.",2,B
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,-1,1,1,1,1,"This isn't toxic, but insults Obama (calling him a racist). ",3,B
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,-1,1,1,1,1,"I don't want to say that ""<some politician> is racist"" is toxic, because I think that's an accurate statement for other politicians I could name. Is this a case of ""Toxic if it's false"" but ""Non-Toxic if it's true""? ",4,B
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,-1,1,1,-1,1,"A charge of racism, with no evidence or context given.",1,A
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,1,1,1,1,1,Nothing toxic about this comment,2,A
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,1,1,1,1,-1,"This person has a child's level of understanding of racism, which would make me leave the discussion in frustration, and they seem to be responding to something based on Ta-Nehisi Coates' ""The First White President"" and misinterpreting it, but they may hold this belief in good faith, and a more patient person may be inspired to engage further.",3,A
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,-1,1,-1,-2,-1,This statement contains insults and insinuations about a public figure based on race and poitical position.,4,A
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,-1,1,0,-1,1,"This one is more benign, but still toxic. The reasoning is not so out of bounds, but it's still over-generlizing and biased.",5,A
+5775422,"Your analogy fails as does your argument.  Trump did not run on the basis that he is a white man, he ran on the basis that he represents everyone.  Obama ran on the basis that he is a black man and the time had come for a black man to be President.  Obama is the racist, not me, I could care less what race a person ascribes to be.",1,1,1,,1,1,"It's wrong, but not toxic.",6,A
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,1,1,1,"Calling Trump intellectually lazy is an insult, even if it's true.",1,B
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,1,-1,1,"This comment insults Trump with the assertions that he is ""intellectually lazy, ignorant, and does not care."" It does not constitute identity based negativity because it quotes a statement Trump made that contains identity-based negativity, but it is not something the author agrees with, and strongly implies the author disagrees with it. There is no profane or threatening language. Because of the insult I would call this toxic, but not very toxic, because the insult is rude but not egrecious, and it is within the bounds of common political discourse to criticize a public figure. Because I agree with this criticism, this comment would not make me leave the conversation.",2,B
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,1,1,1,"Insulting Donald Trump, but not otherwise toxic.",3,B
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,1,1,1,insulting but not toxic,4,B
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,1,1,1,Speaker is only reporting negative comments a third party made. They are making negative comments about this person but it does not rise to the level of toxic.,1,A
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,1,1,1,1,1,Not toxic,2,A
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,1,-1,1,"Ascribes negative motivations to Trump, which are impossible to verify, and his supporters may find this toxic.",3,A
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,1,-1,0,This statement accuses another participant of making racist statements.,4,A
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,0,0,1,Seems like the recounting of toxicity,5,A
+5756167,"He also said 'I saw thousands of Muslims cheering in New Jersey on 9/11'.......so is your statement even remotely relevant...
+I can quote a lot of other things he said as well....'I'm going to build a wall and Mexico is going to pay for it'.....
+He will say anything at any time....because he is intellectually lazy, ignorant, and does not care...",1,-1,1,1,-1,1,It's toxic towards an individual who expressed toxic comments.,6,A
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,1,-1,-1,-2,-1,This racist poster is making dangerous and potentially inciteful threats.,1,B
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,-1,-1,-1,-2,-1,"The n-word is used, making this profane and insulting to Black people as well as identity-based negativity. The language ""race problem"" is antisemitic in origin as it was first used by the Nazis, so this is another example of identity-based negativity and additionally quite threatening. There is also a very explicit threat to ""KILL EVERY [n-word] and [n-word] LOVER that BREATHES"". The unambiguous hateful and threatening language makes this very toxic and would cause me to leave the conversation.",2,B
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,-1,-1,-1,-2,-1,"Very racist, threatening, and obscene comment: very toxic.",3,B
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,1,-1,-1,-2,-1,violent and racist,4,B
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,1,-1,-1,-2,-1,"extreme racism, violence.",1,A
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,1,-1,-1,-2,-1,The comment advocates genocide against black people,2,A
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,-1,-1,-1,-2,-1,Threatening violence against Black people.,3,A
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,-1,-1,-1,-2,-1,This statement contains racial slurs and encourages violence towards a group based on race.,4,A
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,-1,-1,-1,-2,-1,terrible,5,A
+5754953,The ONLY ANSWER to the RACE PROBLEM is to KILL EVERY NIGER and NIGER LOVER that BREATHES,-1,-1,-1,-1,-2,-1,Hits every one.,6,A
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,1,1,1,1,1,This appears to be a counterspeech response to someone else's suggestion that homosexuality is a form of mental illness.,1,B
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,0,1,1,0,0,"Despite the stereotype quoted in the first sentence, I did not mark this as identity-based negativity because the first sentence sounds like it is a response to something offensive someone else has said and trying to get clarification rather than a hateful assertion being made by the author. There is no threatening or profane language used. I put ""maybe"" for insult and toxic because there is the possibility that this is a leading question intended to incorrectly represent someone else's argument, which would be insulting, but it's impossible to know without more context. This is also why I put ""maybe"" for leaving the discussion.",2,B
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,1,1,1,1,1,"Potential counterspeech, replying to another comment.",3,B
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,1,1,1,1,1,"this is fine by itself, it's hard to tell without context (the prevous message)",4,B
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,1,1,1,1,1,The attitude expressed towards the potentially toxic comment is disbelief,1,A
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,1,1,1,0,1,It seems like the author of the comment is asking a question to clarify someone else's point of view,2,A
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,1,1,0,0,0,Needs more context.,3,A
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,0,1,0,0,0,"This statement may be making negative implications about a group based on sexual orientation, or it may be asking to clarify another statement in the conversation that is making that implication.",4,A
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,-1,-1,0,-1,-2,0,This one is clearly dehumanizing.,5,A
+5669847,All gay people are mentally ill?  Or am I misunderstanding?,1,1,1,-1,0,0,"It really is dependent on the follow-up here. I'd almost argue that just putting this out there is wrong, but if it is to clarify an argument with data, then it wouldn't be toxic.",6,A
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",-1,-1,1,-1,-1,-1,This comment suggests that immigartion is resopnsible for canadian decline - that's pretty offensive in itself. But then it goes on to insult native canadians in various ways.,1,B
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",-1,-1,-1,-1,-2,-1,"There are a few examples of profanity in this comment: ""crap"" and ""asses"". This comment clearly insults Muslim and Chinese immigrants to Canada by claiming they are ""destroying white culture"" and also insults Indian people by implying that they do not work and are ""sucking at the taxpayers teat"". Since all those insults are directed at people for their religion or nationality, this is identity-based negativity. The comment includes threatening language twice: once by asking ""when do we put a bag over Trudeau's head"" implying an execution, and by the language ""wouldn't have time to fuss over who kicked your asses"" which is directed at Indian people and implies they should be targeted with violence. The insults and threats, as well as references to ""white culture"", a white supremacist idea, make this very toxic and would make me leave the conversation.",2,B
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",-1,-1,1,-1,-2,1,"Very toxic comment insulting and stereotyping the indigenous peoples in Canada using obscene language, e.g. ""if you worked more ... you wouldn't have time to fuss over who kicked your asses"".",3,B
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",-1,-1,1,-1,-1,-1,racist and violent,4,B
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",-1,-1,1,-1,-2,-1,"Crude, and stereotype expression. Racist attitude. Insult towards Trudeau.",1,A
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",1,-1,1,-1,-2,-1,"The comment appears to express a white supramcist point of view, which is inherently hateful toward identifiable groups. It's expressly negatove toward immigrants of particular non-white origins. It also promotes a negative stereotype about indigenous people.  ",2,A
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",-1,-1,1,-1,-2,-1,Insults indigenous people and immigrants.,3,A
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",1,-1,-1,-1,-2,-1,This statement contains hateful language against multiple groups based on race and ethnicity.,4,A
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",-1,-1,-1,-1,-2,-1,justifying violence,5,A
+5604296,"So when do we put a bag over Trudeau's head for destroying white culture in Canada with Muslim and Chinese immigration??
+
+Now this crap.
+Hey Indians !!1
+
+If you worked more, like the rest of us, Instead of sucking at the taxpayers teat every day - you wouldn't have time to fuss over who kicked your asses",-1,-1,-1,-1,-2,-1,Hits all of them.,6,A
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,-1,-1,"Calling Trump a slimeball is an insult, even if it's true.",1,B
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,-1,1,"The term ""slimeball"" constitutes an insult against Trump and makes this comment toxic. Other than that, there is no profanity, threats, or identity-based negativity. Since the insult is petty, this is not very toxic. I would not leave this conversation solely based on this because I agree with the criticism, even though the language used was not polite.",2,B
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,1,1,"Insults Donald Trump (calling him a ""slimeball"") but not otherwise toxic.",3,B
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,1,1,"it's a ""lighter"" insult",4,B
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,-1,1,mildly toxic insult at the end.,1,A
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,0,1,"The comment employs namecalling, by using the word ""slimeball"" to lightly insult an individual",2,A
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,-1,1,"Insinuates Trump is working with Putin to blackmail opponents, which is unproven. May be toxic to his supporters.",3,A
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,-1,0,"This statement contains insults and insinuations about about a public figure. Depending on the forum, this may or may not drive someone to leave the discussion.",4,A
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,0,1,"this is just a strong opinion against politicians, so depends on the context.",5,A
+5562356,What a scam. Trump engages Putin to collect dirt on his political enemies while making it all look like it is on the up-and-up. What a slimeball.,1,-1,1,1,-1,0,Insulting.,6,A
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,-1,-1,-1,-1,-1,"This is rather retrograde encouragement for ""excommunication"" for same-sex marriage.",1,B
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,-1,0,-1,-2,-1,"Calling same-sex marriage ""sinful"", as well as putting the word ""marriage"" in quotes, is a clear insult to the LGBTQ+ community, and also makes the identity-based negativity. No explicit threats are present unless excommunication is considered to be a threat, so I put maybe for threatening. No profanity is present. Because rhetoric like this has historically and continues to be used to villify the LGBTQ+ community, I said this was very toxic and that it would cause me to leave the conversation, especially because the author makes the assertion that their religion is the authority on morality and law.",2,B
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,1,1,-1,0,1,Identity attack and potentially toxic based on putting marriage in scare quotes.,3,B
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,1,1,-1,-1,-1,homophobic,4,B
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,1,1,1,1,1,Only an expression of a religious/social opinion,1,A
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,1,1,-1,-1,-1,The comment is intended to ostracize LGBTQ people,2,A
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,-1,1,-1,-1,-1,"By putting marriage in quotes, the commenter is delegitimizing gay marriage, not simply describing the Church's view on the topic.",3,A
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,1,1,-1,-2,-1,This statement contains negative language towards a group based on sexual orientation.,4,A
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,-1,-1,-1,-1,1,"I think it's an obtuse/blunt comment, but maybe religions are allowed to define what they think sin is for themselves?",5,A
+5481620,"Homosexual ""marriage"" is a public sinful act, recognized as such by the Canon Law and leading de facto to excommunication",1,1,1,-1,-2,-1,I'd leave because of the type of argumentation.,6,A
+5463361,Yes. Kill them before they kill us.,1,1,-1,1,-2,-1,"Ths missing context for what ""them"" refers to makes this comment hard to label, but any comment advocating killing is potentially harmful.",1,B
+5463361,Yes. Kill them before they kill us.,1,1,-1,1,-2,-1,"The phrase ""kill them"" is an unmistakable threat and call to violence, but this is not identity-based negativity only because the author does not specify who ""they"" are. There is no explicit insult made in the text, even though one could argue there is an implicit one. The threat of violence is enough to classify this as very toxic and would cause me to leave the conversation.",2,B
+5463361,Yes. Kill them before they kill us.,1,1,-1,0,-1,1,"Toxic comment encouraging violence (""kill them before they kill us""). Depending on the perceived target, this could be considered identity-based attack, but it isn't insulting.",3,B
+5463361,Yes. Kill them before they kill us.,1,1,-1,1,0,-1,"maybe this would be ok in an active war zone, but this just feels bad",4,B
+5463361,Yes. Kill them before they kill us.,1,1,-1,1,-1,-1,Indirect threat of violence against an unspecified group,1,A
+5463361,Yes. Kill them before they kill us.,1,1,-1,1,-2,-1,The comment advocates extreme violence against a group of people,2,A
+5463361,Yes. Kill them before they kill us.,1,-1,-1,1,-2,-1,Threatening violence against an unknown group.,3,A
+5463361,Yes. Kill them before they kill us.,1,1,-1,0,-1,-1,"This statement encourages violence towards a group, but it is not clear what group it is directed at.",4,A
+5463361,Yes. Kill them before they kill us.,1,-1,-1,0,-1,0,anything involving killing is usually a bad sentiment,5,A
+5463361,Yes. Kill them before they kill us.,1,1,-1,1,0,0,This requires more context.,6,A
+5450427,Why was he extricated?,1,1,1,1,1,1,Nothing wrong here.,1,B
+5450427,Why was he extricated?,1,1,1,1,1,1,"Nothing is toxic about this comment, it is just asking a question.",2,B
+5450427,Why was he extricated?,1,1,1,1,1,1,Not toxic: asking a question.,3,B
+5450427,Why was he extricated?,1,1,1,1,1,1,possible slang,4,B
+5450427,Why was he extricated?,1,1,1,1,1,1,Completely neutral question.,1,A
+5450427,Why was he extricated?,1,1,1,1,1,1,Not toxic,2,A
+5450427,Why was he extricated?,1,1,1,1,1,1,Simple question,3,A
+5450427,Why was he extricated?,1,1,1,1,1,1,This statement in isolation is not toxic.,4,A
+5450427,Why was he extricated?,1,1,1,1,0,1,"too vague, no context",5,A
+5450427,Why was he extricated?,1,1,1,1,1,1,Nothing here.,6,A
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-1,-1,Almost every word here is toxic.,1,B
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-2,-1,"This comment contains every attribute in the template: profanity because of the use of the n-word, a racial slur; insult again because of the n-word, but also the use of words like ""pollution"" and ""scum""; threatening because it encourages violence agains black people, muslims, and progressives by saying ""shoot every"" one of them and saying they will be ""gone""; identity-based negativity because it uses a slur against black people, the n-word, and also shows extreme hate towards Muslims and progressives by calling them ""pollution"" and ""scum"". Given all of the above, it is unambiguously very toxic and would make me (and probably almost anyone else) leave a conversation.",2,B
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-2,-1,Extremely toxic comment encouraging violence against multiple groups. Obscene for inclusion of the n-word.,3,B
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-2,-1,immediately remove this from discussion,4,B
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,1,-1,-1,-2,-1,Advocating extreme violence towards multiple categories and very obscene language.,1,A
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-2,-1,"The comment uses profanity to associate black people, people of a politocal bent, and people of a religious faith with ""POLLUTION"" and ""SCUM"", which is toxic; advocates violence against them; and attributes negative consequences to their very existence",2,A
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-2,-1,"Threatens violence against Black people and Muslims, uses misspelled slur.",3,A
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-2,-1,This statement contains racial slurs and encourages violence towards a group based on race.,4,A
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-2,-1,terrible,5,A
+5391849,SHOOT EVERY NIGER---MUSLUM----PROGRESSIVE and the POLLUTION FROM this SCUM will be GONE,-1,-1,-1,-1,-2,-1,This one hits every single one. Most toxic comment thus far.,6,A
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,1,-1,1,0,0,This seems to be discussing some specific event where someone was killed. But suggesting that vigilantism is a solution is potentially dangerous.,1,B
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,-1,-1,1,-2,0,"The comment contains two examples of profane language: ""asshole"" and ""bullshit"". It's insulting by calling this individual an asshole, and contains threatening language by saying, ""if I was the father of that kid I'd be torturing some people until they told me the truth"", which encourages violence. No identity is mentioned with any of this, so it is not identity-based negativity. The insults and violent language make this very toxic. I'm not sure if it would make me leave the conversation because while the author uses unnecessarily aggressive language to convey their point, they sound like they do so for sounding dramatic more than out of malice, so I would get more clarification on this before disengaging.",2,B
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,-1,-1,1,-1,1,"Toxic, insulting, and obscene for calling another user a ""complete asshole""; threatening for the discussion of what should be done to other users (encouraging violence).",3,B
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,1,-1,1,-1,-1,"this is really dark, from the situation to the solution",4,B
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,-1,1,1,0,1,"Clearly insulting to ""CleanupEugene"". Not a threat, because they're saying what they would do if they were the father. Overall could be considered a toxic utterance with the insult and a tangential reference to violence.",1,A
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",1,1,0,1,1,1,"It might be argued that the author is advocating for torture and violence against a group of individuals, but it seems intended to be understood as hyperbole",2,A
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,-1,1,1,-1,0,The commenter calls another commenter an asshole.,3,A
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,-1,-1,1,-2,-1,This statement encourages violence against an individual.,4,A
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,0,-1,1,-1,1,"violent, but sympathetic anger",5,A
+5377050,"I know a little bit about this from a friend of a friend  and ""CleanupEugene"" is a complete asshole.  These teenagers he was with clearly murdered him or let him drown, they said he fell in then they pulled him out and he seemed disoriented and they left him.  In otherwords ""BULLSHIT"" something very dark happened there and if I was the father of that kid I'd be torturing some people until they told me the truth.",-1,-1,-1,1,-2,-1,Threatening and violent language.,6,A
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,1,1,-1,-1,-1,This person links gay and transgender acceptance for unspecified harm to children.,1,B
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,-1,0,-1,-2,-1,"This comment is clearly homophobic and transphobic and thus identity-based negativity and insulting because it calls LGBTQ+ kids ""unstable"" and has the stereotype of them having an ""agenda"". It has no profane language. This might be considered threatening depending on the context since ostracizing LGBTQ+ youth is a contributor to high suicide rates among that group. Because of that risk, it is very toxic and absolutely would make me disengage from the discussion with the clearly prejudiced individual.",2,B
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,-1,1,-1,-1,-1,Implies that LGBTQ+ / social justice is bad for society.,3,B
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,1,1,-1,-1,-1,this suggests lgbtq people and progressives hurt the social fabric,4,B
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,1,1,1,0,0,Feels more like a socialogical commentary than intentionally toxic,1,A
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,1,1,-1,-1,-1,"This comment implies a link between isuues and speech to do with LGBTQ+ people and their issues, and mental illness",2,A
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,-1,1,-1,-1,-1,Inflammatory because it insinuates that LGBTQ+ activists cause mental illness.,3,A
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,1,1,-1,-2,-1,This statement contains negative language towards a group based on gender and sexual orientation.,4,A
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,-1,-1,-1,-1,1,It's not constructive and unsubstantiated/judgemental,5,A
+5373347,"Keep pushing transgender,social justice and gays agendas and you will get more unstable kids.",1,1,1,-1,-1,-1,"I had trouble with this one.  I think on the outside it doesn't seem toxic, it's just a viewpoint.  But, when you consider what it is saying about LGBTQ leading to unstable kids, it's incredibly demeaning.",6,A
+5357900,Another african cesspool.,0,-1,1,-1,-2,-1,Calling any place where persons live a cesspool is insulting and dehumanizing.,1,B
+5357900,Another african cesspool.,-1,-1,-1,-1,-2,-1,"The term ""cesspool"" is clearly insulting, and the fact that it is referring to an identity group, African, additionally makes it identity-based negativity. I would also say that it is threatening because comparing people to sewage is incredibly dehumanizing, and such language has historically been used to incite violence. As such, the comment is very toxic, and would make me leave the conversation because someone with such hateful views would not be someone I could engage in a productive dialogue with. The comment does not contain any profanity.",2,B
+5357900,Another african cesspool.,1,-1,1,-1,-2,0,Insulting and racist comment; very toxic.,3,B
+5357900,Another african cesspool.,-1,-1,1,-1,-1,1,not sure about toxic/serverly toxic,4,B
+5357900,Another african cesspool.,1,1,1,-1,-2,-1,Insulting and extreme negative stereotype of a large group of people.,1,A
+5357900,Another african cesspool.,1,-1,1,-1,-1,-1,"This is clearly negative and associates African places, and by extension African origin with waste and toxicity",2,A
+5357900,Another african cesspool.,1,-1,1,-1,-2,-1,Racist towards Africans.,3,A
+5357900,Another african cesspool.,1,-1,1,-1,-2,-1,This statement contains slurs and stereotypes based on nationality and race.,4,A
+5357900,Another african cesspool.,-1,-1,-1,-1,-2,0,Dehumanizing,5,A
+5357900,Another african cesspool.,1,-1,1,-1,-2,-1,"""cesspool"" is likely always toxic.",6,A
+5332669,"Great, should have been nukes.",1,0,0,1,0,0,There's missing context about what this comment is saying. Seems like it might be cheering the bombing of some place.,1,B
+5332669,"Great, should have been nukes.",1,1,-1,1,-2,-1,"Referring to nukes and implying support of violence makes this clearly threatening and very toxic and likely make me disengage from the discussion, but it does not explicitly have any insults, profanity, or identity based attacks.",2,B
+5332669,"Great, should have been nukes.",1,1,0,1,1,1,"Not toxic, but on the edge for threatening language/violence.",3,B
+5332669,"Great, should have been nukes.",1,1,-1,1,-1,-1,This is very threatening,4,B
+5332669,"Great, should have been nukes.",1,1,0,1,0,0,"Context is not enough to be sure, but it's quite possible that the comment is saying that bombs that were dropped on somebody should have been nukes.",1,A
+5332669,"Great, should have been nukes.",1,1,0,1,0,-1,"It's not clear but appears that the author is suggesting the use of weapons of mass destruction on some group of people, which is arguably threatening ",2,A
+5332669,"Great, should have been nukes.",1,1,0,1,0,0,Not enough context.,3,A
+5332669,"Great, should have been nukes.",1,1,0,1,0,0,"Without more context, it is unclear whether this statement encourages violence.",4,A
+5332669,"Great, should have been nukes.",0,0,-1,0,-1,0,"There's not enough context to know exactly what this is about; however, it's clearly sarcastic and/or making a joke about unfunny matters.",5,A
+5332669,"Great, should have been nukes.",1,1,-1,1,-1,0,"Violent and/or threatening towards someone. It shouldn't make a difference who, given the criteria.",6,A
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,0,1,-1,-1,-1,"Some kind of religious dogma mixed with a descrption of persons ""practicising"" homosexuality is a pretty toxic brew.",1,B
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,-1,-1,-1,-2,-1,"The assertion that all gay people died ""to purify the world"" in the name of a religious event is extremely harmful and constitutes an insult, identity-based negativity, and is also threatening, especially since the author clearly does not disapprove of this theory given the phrase ""makes you think"", implying that they might condone similar deaths today. This makes the post very toxic and would make me leave the conversation.",2,B
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,1,1,1,0,1,"Unlikely to be toxic, though it could be toxic in certain contexts.",3,B
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,1,1,1,0,1,"This seems to be a commentary on a potentially toxic idea, although possibly ""makes you think"" implies the commenter thinks it should be done again",4,B
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,1,0,-1,-1,1,Indirect threat about homosexuals dying or being killed.,1,A
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,1,1,-1,-2,-1,This comment implies that people os a certain sexual orientation should be purged from society,2,A
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,1,1,0,0,0,Could possibly be a sarcastic response to a homophobic comment. Needs more context.,3,A
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,1,-1,-1,-2,-1,This statement contains negative language towards a group based on sexual orientation. This statement encourages harm to a group based on sexual orientation.,4,A
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",-1,-1,-1,-1,-1,1,Obtuse,5,A
+5242422,"Y'know, many of the Church Fathers like St. Jerome taught that when Christ was born, all peoples practicing homosexuality died to purify the world for the Incarnation.  Lux orta est iusto.
+Makes you think.",1,-1,-1,-1,-2,-1,"With some more context, this could be made into the opposite argument. But again, the comment on its own, when given without context, just puts more hate out there.",6,A
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,1,1,1,1,1,"This comment makes generalizations about the population in particular towns - it may not be true, but it doesn't single out an individual.",1,B
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,1,1,1,1,1,"The accusations made here are about a location, not a person or group of people, even though one could argue that it is implied; however, the implication is not enough to call this an insult, given the generality of the people in this location (""students from around the world""). It discusses discrimination in a conversational context but does not utilize any discriminatory language, so it is not identity-based negativity, insulting, or toxic. It also contains no profanity and is a perfectly reasonable comment to have in a discussion.",2,B
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,1,1,1,1,1,"Not toxic, though it deals with sensitive material/discussion.",3,B
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,1,1,1,1,1,Not toxic,4,B
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,1,1,-1,1,1,"Does seem to single out people in a particular town, but does not insult them.",1,A
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,1,1,1,1,1,Not toxic,2,A
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,-1,1,1,-1,1,"The overall argument is legitimate (big, seemingly progressive cities can be more discriminatory than small towns), but the specific example used in this comment insults the population of Eugene.",3,A
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,-1,1,0,-1,-1,"This statement accuses a geographic group of discriminating based on a range of factors, including race, ethnicity, and sexual orientation.",4,A
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,-1,1,-1,-1,1,It's not constructive and unsubstantiated/judgemental,5,A
+5178204,"Don't just single out Springfield. Eugene has more racists, homophobes and anti-Semites than most small towns in Oregon. And Eugene has a comprehensive university with students from around the world.",1,1,1,-1,-1,1,"I guess it's insulting towards Eugene, Oregon. Also, just based on the comment, I'm assuming that it is aimed at inciting anger rather than sharing useful data.",6,A
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,-1,1,-1,-1,Any comment encouraging physical harm to another individual is pretty toxic.,1,B
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,-1,1,-2,-1,"This comment contains clear threatening language by encouraging physical violence (""kick her in the stomach"", ""punch her in the face"", ""smash her nose""). There isn't any mention of identity groups nor are there any clear insults or profane language. The encouragement of violence is enough to make this very toxic and would make me leave the conversation.",2,B
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,-1,1,-1,1,"Toxic comment that encourages violence against someone (""kick her in the stomach"", ""punch her in the face"", etc) but not insulting, obscene, or discriminatory.",3,B
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,-1,1,-1,0,"kind of a weird sentence, makes me wonder about the context",4,B
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,-1,1,-2,-1,Graphic detailed incitment to violence.,1,A
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,-1,1,-2,-1,The comment is encouraging violence against a specific person.,2,A
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,0,1,0,0,Needs more context.,3,A
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,-1,1,-1,-1,This statement encourages violence toward an individual.,4,A
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,-1,-1,-1,1,-2,-1,violence,5,A
+4991651,Kick her in the stomach Angela! Then punch her in the face. Try to do as much physical damage as you can to the girl. Yeaaaaaa! Smash her nose...,1,1,-1,0,-2,-1,Very violent.,6,A
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,-1,1,1,-1,-1,"Not sure what the referenced context is here, but the term ""radical left"" is a derogatory political slur. ",1,B
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,0,1,-1,0,0,"I put ""not sure"" for insult because of the phrase ""radical left"" which is accusatory and often used dismissively, and because of the subsequent accusation of sending threats, however these things are minor and could arguably be considered fair game in terms of political debate depending on who is asked and what was said in the rest of the conversation. I said ""yes"" for identity-based negativity for two reasons: the use of the term ""blacks"", which is often considered to be offensive as opposed to the phrase ""Black people"", and because this argument can be perceived as gaslighting to the Jewish community about what are presumably threats being made against them by saying, essentially, ""well it can't be what you think because what about everyone else?"" which is an argument often used to be dismissive of antisemitism. I did however put ""maybe"" for toxic because it's not obvious that the author has malicious intent here, and for that same reason I would probably hold off on leaving the conversation until it was clear whether that was the case.",2,B
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,1,1,1,-1,-1,"Accuses the ""radical left"" of false flag attacks. Toxic, but not insulting or identity-based negativity, or the other subtypes.",3,B
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,1,1,1,1,1,This seems like a person discussing a (toxic) conspiracy theory but they're doing so respectfully. The content of this message is more who/what/when than actually about racist targeting of groups,4,B
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,1,1,-1,1,1,"Somewhat stereotyping of the left, but otherwise just a political opinion",1,A
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,1,1,1,1,-1,Not toxic,2,A
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,1,1,1,1,-1,"This is technically not toxic, as it doesn't insult a particular identity group or someone in the conversation, but the existence of a ""radical left"" which is antisemetic is disputed.",3,A
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,-1,1,-1,-1,-1,"This statement accuses a group of making negative statements based on gender, race, and sexual orientation.",4,A
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,-1,0,-1,0,1,"It seems unnecessarily accusatory, but nothing stands out as toxic. the use of ""radical left"" is the only thing that seems a bit toxic.",5,A
+1059245,"I believe that Trump is correct on this one, and that it is the radical left sending these threats.
+
+Neonazis wouldn't only be targeting jews, they would target jews, blacks and muslims.",1,1,1,-1,-1,1,"Toxic towards neonazis, right?",6,A
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,1,1,1,-1,-1,-1,"What is vaguely being insinuated here seems to allude to  stereotypes of white women being ""threatened"" by the proximity of black men. That's offensive in any context.",1,B
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,1,0,0,0,0,0,"This comment contains no profanity but for every other label, more context is needed. There is a history of racist stereotypes about and violence committed towards Black men for supposed sexual violence against white women, often falsely accused, but it's unclear if the author is making implications about that here. If they were, then this would be insulting, threatening, identity-based negativity, and very toxic because of the history of such implications. However, it's possible that the author is being critical about this supposed scenario for the same reason because of the question ""Is this a movie script?"", which would not indicate any hateful intent or toxicity. Overall, much more context is needed here to draw any conclusions and determine if I would stay in the conversation.",2,B
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,1,1,1,1,-2,-1,Toxic innuendo; would also qualify as sexually explicit.,3,B
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,-1,1,1,1,-2,-1,reference to gang-r* in porn,4,B
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,1,1,1,1,1,1,The subject is very sensitive but nothing insulting or demeaning is being said.,1,A
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,1,-1,1,-1,-1,-1,This comment is mysogynistic and is suggesting sexual and racial stereotypes in an attempt at humor,2,A
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,1,-1,1,-1,-1,1,Invoking racial pornography tropes.,3,A
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,1,1,1,-1,-1,-1,This statement contains sexual innuendo based on stereotypes about gender and race.,4,A
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,0,0,-1,-1,0,-1,It's uncomfortably suggestive and sarcastic.,5,A
+1057029,A white woman on her knees. Hmmmm. In a room full of black men. Is this a movie script?,1,-1,1,-1,-2,-1,"Obvious sexual implications, gender and race.",6,A
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-1,-1,An insultory comment that seems like a schoolyard brawl.,1,B
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-2,-1,"There are multiple instances of profanity here: ""dumbass"" and ""shut the fuck up."" The term ""dumbass"" as well as the statment ""you're weak"" are both clear insults. However, nothing is referring to anyone's identity so there is no identity-specific negativity, and no threatening language is used. The viscious insults and profanity make me consider this to be very toxic and would cause me to leave the conversation, since anyone who uses such language would likely not engage in a polite or constructive way.",2,B
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-1,1,Toxic comment insulting another user by calling them a dumbass (obscene) and telling them to shut the fuck up (also obscene).,3,B
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-1,-1,The commenter is extremely insulting,4,B
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-1,0,needlessly provocative insults.,1,A
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-1,-1,"Insulting by calling someone a ""dumbass"" and uses profanity/obscenity",2,A
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-1,-1,Insults interlocutor,3,A
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-1,-1,"This statement contains insults directed toward another participant, and obscene language.",4,A
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,-1,1,-1,1,insulting and name calling. very childish.,5,A
+1009737,"You dumbass. Why wasn't the shooter arrested when he turned himself in? You're weak, shut the fuck up.",-1,-1,1,1,-2,-1,Very insulting.,6,A
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,1,-1,1,1,-1,-1,The general dismissive tone towards liberal views is not inclusive.,1,B
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,1,-1,1,0,-1,-1,"The phrase ""you ignorant left winger"" is an insult, though it's a petty one, which causes me to label this as toxic but not very toxic. I put maybe for identity-based negativity because I'm not sure if political ideology counts as an identity group for that purpose. There are no clear threats or profane language. This would make me leave the conversation because this individual does not sound like someone willing to engage with those with different political views.",2,B
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,1,-1,1,1,-1,1,Toxic comment calling another user ignorant.,3,B
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,-1,-1,1,1,-1,-1,"""winger"" is a bad word ",4,B
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,1,-1,1,-1,-1,1,"Gratutious insult (""ignorant"")",1,A
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,1,-1,1,1,-1,-1,"Calls someone else ""ignorant"", which is insulting",2,A
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,1,-1,1,1,-1,-1,Insults left-wing people by calling them racist.,3,A
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,1,-1,1,1,-2,-1,This statement contains insults and accusations directed toward another participant.,4,A
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,0,-1,1,-1,-1,0,unnecessary name calling,5,A
+821307,wow and yet the hate and racism is coming from the alt left you ignorant left winger,1,-1,1,-1,-1,0,Insulting.,6,A
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,1,1,1,1,1,Countering another user's online behavior.,1,B
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,0,1,1,0,0,"It's not clear to me what the phrase ""nude one"" is supposed to mean, and that would influence whether I found this to be insulting or toxic. I would need more context. I do not see any profanity, threats, or identity-based negativity.",2,B
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,1,1,1,0,1,"Could be considered toxic depending on the other user (""nude one""), but not likely.",3,B
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,0,1,1,1,1,"""nude one"" is possibly an insult or a mispelling",4,B
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,-1,1,1,-1,1,needlessly provocative.,1,A
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,1,1,1,1,1,Not toxic,2,A
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,0,1,1,-1,0,"Insinuates ""nude one"", who seems to be another commenter, is racist. More context is needed to know if this is true, but this would likely make that commenter exit the conversation.",3,A
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,-1,1,1,-1,-1,This statement accuses another participant of making racist statements.,4,A
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,-1,1,1,-1,1,what does nude one mean?,5,A
+756920,"Your hatred of Arab and Muslim people is well known, nude one.",1,-1,1,1,-1,0,"This seems more like a fact, but it also seems insulting towards the person in question...unless they really are like that. I'm marking it toxic, but it feels more and more like this whole message board is just toxic.  And I would leave any of these conversations immediately.",6,A
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,-1,1,1,-1,-1,"There's some incoherent imagined victimhood described here, but the generalizations about ""the left"" don't qualify for identiity-based negativity due to the definition provided.",1,B
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,-1,1,-1,-1,-1,"I said yes for insult because the commenter calls the left ""the bastion of hatred and intolerance,"" a clear insult. I also said yes for identity-based negativity because of the way the speaker refers to certain groups of people. Langauge like ""the blacks"" and ""the gays"" is often considered offensive because of the way it ""others"" people from marginalized groups compared to the more humanizing language ""Black people"" and ""gay people"". Because of the insult and questionable identity related language, I called this toxic, but not very toxic, since insults directed at other ideological parties, while not nice or poltie, are quite common in political discussions and not extreme enough for very toxic.. Additionally, the underlying point the author was trying to make, while lost in the exagerated language being used, was not in itself a harmful argument. I said that I would leave the discussion because assertions such as ""All the ____ who voted for Trump are ____"", implied to be said by the opposing party, and the resulting conclusion that ""the left is the basion of hatred and intolerance"", are classic examples of a straw man fallacy--distorting the other side's opinions into such extreme statements and then countering those rather than the actual statement. Such an absolute argument leaves no room for debate on the topic, making a healthy discussion impossible.",2,B
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,-1,1,1,1,1,"Political discussion: I'd accept this as not toxic, but it also insults the US left (""the bastion of hatred and intolerance""). However, this isn't identity-based negativity since it insults people on the basis of political beliefs.",3,B
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,-1,1,1,1,1,strong political views are not necessarily toxic,4,B
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,1,1,-1,1,1,"People one the left are being collectively described as racists, so it is negative but not toxic",1,A
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,1,1,1,1,1,Not toxic,2,A
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,-1,1,1,-1,-1,"Insulting ""the left"".",3,A
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,-1,1,1,-1,-1,"This statement accuses a group of making negative statements based on gender, race, and sexual orientation.",4,A
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,-1,0,-1,-1,1,"They have a point, but it's extreme and non-constructive. It's trying to agitate the left.",5,A
+730679,"All the women who voted for Trump are derided as being only men . All the blacks who voted for Trump are summarily dismissed as white. All the gays who voted for Trump are condescended to as being ignorant uneducated  straight males.  That is the homophobia, racism and misogyny you should be talking about.  The left is the bastion of hatred and intolerance.",1,-1,1,1,-1,1,"I don't think ""the left"" is an identity, but if it is, then I would switch this one to being very toxic.",6,A
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,-1,1,-1,-1,-1,The generalizations here serve the commenters purpose which seems dominated by stereotypical thinking.,1,B
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,-1,-1,-1,-2,-1,"This comment is insulting towards Muslims by insinuating that they are all violent, calling moderate Islam and violent Islam ""indistinguishable"" and asserting that ""both sides want to kill everybody else."" These insults are identity-specific, so this also constitutes identity-specific negativity. I also said that this is threatening because such extreme statements are usually made to justify violence against the people they are discussing. Overall, this is extremely hateful and therefore very toxic, and I would not remain in a conversation with someone who espoused hateful views. ",2,B
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,-1,1,-1,-1,1,Toxic comment which stereotypes Muslims by suggesting all Muslims are violent.,3,B
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,-1,1,-1,-1,0,stererotyping in insult is always going to go with identity-based negativity,4,B
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,1,1,-1,-1,-1,more of a stereotype and general lazy characterization than a legitimate political opinion.,1,A
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,-1,1,-1,-2,-1,"The comment is Islamophobic, attributing ill-will to peope of an entire faith",2,A
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,-1,1,-1,-2,-1,Claims all Muslims are violent,3,A
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,-1,1,-1,-2,-1,This statement contains harmful and violent stereotypes about a religious group.,4,A
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,-1,-1,-1,-1,-2,1,ignorant,5,A
+713989,Moderate Islam is indistinguishable from violent Islam.  Both sides want to kill everybody else.  Violent Islam is willing to dot he killing themselves and the moderates are willing to let them.,1,-1,1,-1,-1,-1,Insulting and stereotyping.,6,A
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,1,1,1,-1,-1,-1,"Suggesting that Chinese products are ""crap"" is pretty toxic.",1,B
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,-1,-1,1,-1,-1,-1,"This comment contains profanity (""crap"") and insults the Chinese by implying they are ""selling crap"", and since Chinese is a nationality, this is also identity-based negativity. There are no threats made here. I consider this to be toxic but not very toxic because the insult used is a stereotype that is unkind and xenophobic, but not one that encourages violence or aggression towards the people being insulted. Still, I would likely leave this conversation since the author is being disrespectful, which indicates an unlikelliness to have a civil discussion.",2,B
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,-1,1,1,1,1,1,"Not toxic comment: discussing US-China trade relations, but obscene for refering to products as ""crap"".",3,B
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,-1,1,1,1,1,1,"I associate ""crap"" more strongly with Walmart so I think it's not identity-based negativity, but I could see the argument that this implies ""all Chinese people sell crap""",4,B
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,-1,1,1,0,0,1,Unclear because 'crap' could mean low quality stuff or just a generic word for stuff.,1,A
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,1,1,1,-1,-1,-1,Stereotype about China and the Chinese as producers of 'crap' -- low quality goods,2,A
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,1,-1,1,-1,-1,-1,Invokes stereotypes against Chinese manufacturing quality,3,A
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,1,1,1,0,-1,0,"This statement may contain sweeping or stereotyped statements about an ethnic group. It is not clear whether ""crap"" is being used in a derogatory fashion, or just as a synonym for ""stuff"". ",4,A
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,-1,-1,1,-1,-1,1,racist,5,A
+699993,What are the Chinese going to do.....stop selling crap to Walmart?,-1,-1,1,-1,-1,0,Insulting and stereotyping.,6,A
+624804,This is what feminists do.,1,0,1,0,0,1,"It's not clear if feminist is an identity according to the provided definition, and context is needed to reason about this comment.",1,B
+624804,This is what feminists do.,1,0,1,0,0,0,"This could either be neutral/positive if it's a response to something good, or it can be insulting or negative if it's in response to something bad. Because of this, we need more context to know if this is insulting, identity-based negativity, or toxic. There is no profanity and there are no threats.",2,B
+624804,This is what feminists do.,1,-1,1,1,-1,1,"Toxic comment insulting feminists; however, this isn't identity-based attack.",3,B
+624804,This is what feminists do.,1,1,1,1,1,1,this needs more context but by itself is fine,4,B
+624804,This is what feminists do.,1,1,1,0,0,1,"Not enough context. Likely some sort of stereotype statement, but could just be a neutral one.",1,A
+624804,This is what feminists do.,1,-1,1,0,-1,0,"The comment attibutes some kind of behavior which is unspecified in the comment to a whole group (feminists), so it's stereotyping. It seems likely that it's also negatove toward women, but that's less certain without more context.",2,A
+624804,This is what feminists do.,1,0,1,1,0,0,Needs more context.,3,A
+624804,This is what feminists do.,1,0,1,1,0,0,"Without more context, it is not clear whether this statement is insulting, neutral, or complimentary toward a group.",4,A
+624804,This is what feminists do.,1,0,1,0,0,1,no context,5,A
+624804,This is what feminists do.,1,0,1,-1,0,0,"Definitely stereotyping...but if the context is positive, it is not necessarily toxic.",6,A
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,1,1,-1,-1,-1,This comment identifies a list of identity based groups that are alleged to be responsible for profits decliing.,1,B
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,1,1,1,1,1,This comment refers to several identity groups but does not say anything negative about them. For this reason it is not toxic and would not cause me to leave the discussion.,2,B
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,1,1,1,1,1,Not toxic per se.,3,B
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,1,1,1,1,1,"Usually singling out groups like this is toxic, but the sentence doesn't make enough sense for me to rate it as such",4,B
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,1,1,-1,0,1,"There seems to be some kind of insinuation about black, hispanic and lgbt people but without context it's not clear",1,A
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,1,1,0,0,0,It's unclear without more context what association the comment is making between groups and social effects,2,A
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,1,1,0,0,0,Needs more context.,3,A
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,1,1,-1,-1,-1,This statement makes negative accusations towards a range of groups based on race and sexual orientation.,4,A
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",0,-1,1,0,0,1,This needs more context.,5,A
+588789,"And Black Voters, Hispanic Voters, LBGT Voters... The list goes on! There's a reason NYTs profits are down 95%!",1,-1,1,-1,-1,1,Identity-politics leading to insults.,6,A
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,1,1,0,1,1,"This comment seems to be dripping in sarcasm. The ""sky is falling"" metaphor almost certainly refers to the Chicken Little story which is about alarmism. This may be counterspeech against a patriarchal or authoritarian thread.",1,B
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,0,1,1,1,1,"While this has elements of insults and identity-based negativity if taken literally, it is clearly sarcastic based on the exaggerated language, so is not toxic. It might not be the best way to engage with someone in a healthy way, so ""maybe"" for insult, since one could make the argument this is insulting Trump supporters. I would not leave the discussion since I think this is pretty funny.",2,B
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,1,1,1,0,1,"Very sarcastic, but not necessarily toxic or falling under any toxicity subtype.",3,B
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,1,1,1,1,1,heavy sarcasm in this text,4,B
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,1,1,1,1,1,Sarcasm caricaturing a right-wing point of view.,1,A
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,1,1,0,0,0,"It's not clear whether the author is being sarcastic. If this is sincere, then this would be toxic, identity-based negativity. Even as sarcasm it could be borderline.",2,A
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,0,1,1,-1,1,Satirizing the views of Trump supporters. They may see this as a bad-faith characterization of their beliefs.,3,A
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,1,1,-1,-1,-1,This statement may be sarcastic; it contains insults about public figures based on race and gender.,4,A
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,-1,1,-1,-1,0,Sounds like this person is sarcastically insulting conservatives. But it could also be someone panicking about diversity.,5,A
+526565,The sky is falling! The sky is falling! This country has elected a black man twice! And now a woman! Please God! Make America Great Again! We're going down in flames!!!,1,-1,1,-1,-1,1,"It's demeaning towards the people who elected Trump, I assume.",6,A
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,1,1,1,1,1,Without context it's hard to tell if this comment is as sarcastic as it seems.,1,B
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,1,1,1,1,1,"This comment uses positive language such as ""great"" and ""amusing"" and does not have any clear elements of toxicity unless one interprets it sarcastically, but this is not an obvious interpretation so I would assume good intent here and say this is non-toxic.",2,B
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,1,1,1,-1,1,Non-constructive and toxic post.,3,B
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,-1,1,1,1,1,backhanded compliment,4,B
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,-1,1,1,-1,1,Sarcasm like this is mildly toxic,1,A
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,1,1,1,1,1,Not toxic,2,A
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,-1,1,1,-1,0,Insulting the interlocutor.,3,A
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,0,1,1,-1,0,This statement may be sarcastic.,4,A
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,-1,1,1,-1,0,"I would say it's sarcastic, but not toxic.",5,A
+497006,"Another great ""zinger"".  You're an amusing fellow.  I bet you sway all kinds of folks to your side of an issue.",1,-1,1,1,0,0,"I generally don't like these kinds of attacks, but is it toxic? It's definitely an attack on the other person, but not a particularly mean one.",6,A
+489102,I will burn your house down,1,1,-1,1,-2,-1,This is a direct threat of harm.,1,B
+489102,I will burn your house down,1,1,-1,1,-2,-1,"The commenter saying ""burn your house down"" is a very clear threat, and also makes this a very toxic comment that would cause me to leave the conversation because I don't engage with someone who threatens me. No profanity, insults, or identity attacks are present.",2,B
+489102,I will burn your house down,1,1,-1,1,-1,1,Threatening to burn someone's house down and thus toxic.,3,B
+489102,I will burn your house down,1,1,-1,1,-1,-1,threatening and toxic,4,B
+489102,I will burn your house down,1,1,-1,1,-2,-1,extreme threat.,1,A
+489102,I will burn your house down,1,1,-1,1,-2,-1,This is directly threatening violence against an individual,2,A
+489102,I will burn your house down,1,1,-1,1,-1,-1,Threatening violence against interlocutor.,3,A
+489102,I will burn your house down,1,1,-1,1,-2,-1,This statement is a direct threat.,4,A
+489102,I will burn your house down,-1,1,-1,1,-2,-1,anything personal or threatening crosses a big line,5,A
+489102,I will burn your house down,1,1,-1,1,-1,0,Threatening.,6,A
+481783,Muslim-maniacs!,1,-1,1,-1,-1,0,Linkage of mental health issues with religion is a pretty toxic blend.,1,B
+481783,Muslim-maniacs!,1,-1,1,-1,-1,-1,"""Maniacs"" typically has a negative connotation so associating it with the identity term Muslim is both insulting and identity-based negativity, and therefore toxic. I did not say very toxic because there is not enough context in this two word comment to know the severity of the comment or the degree of harmfulness intended by the author, but I would probably leave the discussion since speaking about any identity group in this way, regardless of intent, is a huge red flag.",2,B
+481783,Muslim-maniacs!,1,-1,1,-1,-2,1,"Not obscene or threatening, but is a hateful/stereotyping comment about Muslims and very toxic.",3,B
+481783,Muslim-maniacs!,1,1,1,-1,-1,0,it's hard to rate the short ones!,4,B
+481783,Muslim-maniacs!,1,1,1,-1,-1,-1,Derogatory towards a religious category.,1,A
+481783,Muslim-maniacs!,1,-1,1,-1,-1,-1,"There's not a ton of context but it seems likely this is intended to be negatove toward Muslims and depict them as radicals, and mentally ill",2,A
+481783,Muslim-maniacs!,1,-1,1,-1,-2,-1,Inflammatory towards Muslims.,3,A
+481783,Muslim-maniacs!,1,0,1,0,0,0,"Without more context, it is not clear whether this statement is insulting, neutral, or complimentary toward a group.",4,A
+481783,Muslim-maniacs!,-1,-1,0,0,0,1,i need more context,5,A
+481783,Muslim-maniacs!,1,-1,1,-1,-1,-1,"There might be a way in which this is a good thing, but I'm guessing not.",6,A
+477772,"Racist, you already know what he looks 'like'.",1,-1,1,1,-1,-1,This appears to be countering another comment that exhibited racisim - or so it's claimed. Difficult to tell without context.,1,B
+477772,"Racist, you already know what he looks 'like'.",1,0,1,1,0,0,"I put maybe for insult here because the author is calling someone a racist, but it's somewhat debatable whether that is an insult or an accurate label without having more context. For the same reason I put ""I'm not sure"" for toxicity and leaving the discussion, because I would like to have more context. There is no profane or threatening language, nor are there any identity-specific insults.",2,B
+477772,"Racist, you already know what he looks 'like'.",1,-1,1,0,-1,1,Toxic for calling another user a racist. Potential identity-based attack depending on the context (inferring this could be on an article about crime?).,3,B
+477772,"Racist, you already know what he looks 'like'.",1,-1,1,1,1,1,I don't know if calling someone out is immediately toxic,4,B
+477772,"Racist, you already know what he looks 'like'.",1,-1,1,1,0,0,"Needs more context to be sure, but this could be a potentially unwarranted charge of racism.",1,A
+477772,"Racist, you already know what he looks 'like'.",1,-1,1,0,-1,0,"The comment is insulting to another participant in the conversation -- labelling them a ""racist""",2,A
+477772,"Racist, you already know what he looks 'like'.",1,1,1,0,0,0,Needs more context.,3,A
+477772,"Racist, you already know what he looks 'like'.",1,-1,1,1,-2,-1,This statement accuses another participant of making racist statements.,4,A
+477772,"Racist, you already know what he looks 'like'.",1,-1,1,1,-1,1,"accusatory, name calling",5,A
+477772,"Racist, you already know what he looks 'like'.",1,-1,1,-1,-1,-1,Stereotypical behavior. Also possibly insulting about who they're calling a racist.,6,A
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,1,1,1,"Seemt to be counterspeech calling out another user's online behavior, with an embedded insult (""fool"").",1,B
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,1,-1,-1,"Calling someone a ""fool"" is a clear insult and makes this toxic, but it is not very toxic because it is rude but not the most aggressive of insults. No identity-specific statements are made, nor is there any profanity or threatening lanaguage. I would leave the conversation here because the author only makes fun of the target here and does not contribute anything meaningful to the discussion.",2,B
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,-1,-1,1,Insulting another user named Roid and calling them a fool.,3,B
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,1,1,0,needs context,4,B
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,1,-1,0,Mostly insult with no substance.,1,A
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,1,0,1,"The comment insults someone by calling them a ""fool""",2,A
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,1,-1,1,Insult against another commenter.,3,A
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,1,-1,-1,This statement is insulting towards another participant.,4,A
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,0,-1,1,1,-1,1,unnecessary name callling.,5,A
+468913,You just can't stop can you Roid? Keep spreading the nonsense if it makes you feel good. Most of us know you for the fool you are.,1,-1,1,1,-2,-1,Insults,6,A
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",0,-1,1,1,-1,-1,The argumentative tone and derogatory terms for FOX and Rush Limbaugh make this comment at least immature and unpleseant to read.,1,B
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",1,-1,1,1,-1,0,"There are a few insults here, though most are not directly towards people. ""Twisted and lopsided interpretation"" and ""drivel"" are directed at ideas rather than people, though there is an implication that the author has negative views about the person being quoted. Similarly, the misspelling of ""Fox News"" as ""FAUX Ooze"" is insulting, but towards a TV network, which is a bit ambiguous as well because a TV network is not a person. There is also an insult in the quote directed towards Hillary Clinton, but this is a quote and not the author's sentiment, so again that does not qualify as an insult. However, I did mark this comment as an insult because of the last instance: the author additionally misspells ""Rush Limbaugh"" as ""Lush Rimbaugh"", which is directly mocking a specific person. This, along with the author's general mocking tone, make this toxic, but I would not classify it as very toxic because the mocking is a somewhat rude form of political satire rather than hateful. I'm not sure if I would leave the conversation because I feel similarly to the author, however if this person continued to use inflammatory language I would leave the conversation. There is no profanity, threatening language, or identity-based negativity expressed here.",2,B
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",1,1,1,1,0,-1,"Potentially toxic for the way it addresses another user, but not obscene, insulting, threatening, or discriminatory.",3,B
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",1,-1,1,1,-1,1,"FAUX Oooze is kind of funny,, ngl",4,B
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",1,-1,1,1,-1,1,"Slightly toxic, maybe a little gratituous on the insults to Limbaugh and Fox News.",1,A
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",1,1,1,1,1,1,"Mocking tone, but not really toxic",2,A
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",1,-1,1,1,-1,1,Insults interlocutor,3,A
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",1,-1,1,1,-1,-1,This statement contains insults directed toward another participant.,4,A
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",0,-1,1,-1,-1,1,"seems to have strong opinions, but is using personal attacks to make the point",5,A
+408596,"""My statement is totally correct. The FBI investigation as Comey explained it proves Hillary to be a sociopathic liar."" 
+
+No, it's not correct. Your twisted and lopsided interpretation of Comey's statement is even worse. Did you lift this drivel from FAUX Oooze? Lush Rimbaugh?",1,-1,1,1,-1,0,Insulting.,6,A
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,-1,-1,1,-1,-2,-1,Calling Russians criminals and skanks are both examples of ethnic negativity.,1,B
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,-1,-1,1,-1,-2,-1,"I said yes for profanity because of the word ""skanks"". I said yes for insult and identity attack because applying the label of ""criminals"" and identifying women as ""skanks and users"" is inflammatory, invokes stereotypes, and does all this specifically with regard to a nationality (Russians). I said it is very toxic because the comment is clearly hateful based on the above, and for the same reason it would cause me to leave a discussion.",2,B
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,-1,-1,1,-1,-2,1,"Insulting and stereotyping comment about Russian people. Also profane/obscene since it calls Russian women ""skanks"".",3,B
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,-1,-1,1,-1,-1,-1,racist and sexist,4,B
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,-1,1,1,-1,-1,-1,Extremely generalized insult towards some demographics,1,A
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,1,-1,1,-1,-2,-1,"The comment is negatove and expresses a strong bias about people of a particular national origin, and is particularly mysogynistic in the way that it does that",2,A
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,1,-1,1,-1,-2,-1,Insults Russians with stereotypes.,3,A
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,1,-1,1,-1,-2,-1,This statement contains slurs and stereotypes directed at an ethnic group and at women.,4,A
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,-1,-1,-1,-1,-1,0,dehumanizing,5,A
+392203,Not surprised.  Most Russians are criminals and their women are skanks and users...,-1,-1,1,-1,-2,-1,Stereotypical to the extreme.,6,A
+268334,Look at Oklahoma...moron!,0,-1,1,1,-1,-1,Calling someone a moron is an insult.,1,B
+268334,Look at Oklahoma...moron!,1,-1,1,1,-1,-1,"Calling someone a ""moron"" is a clear insult and makes the comment toxic. There are no threats, and no profanity or identity-based negativity. I put toxic and not very toxic because moron is an insult, but falls on the ""rude"" side and is not the most extreme language.",2,B
+268334,Look at Oklahoma...moron!,1,-1,1,1,-1,1,Toxic comment calling another user a moron.,3,B
+268334,Look at Oklahoma...moron!,1,-1,1,1,-1,1,lightly insulting,4,B
+268334,Look at Oklahoma...moron!,-1,-1,1,1,-1,1,Needless insult.,1,A
+268334,Look at Oklahoma...moron!,1,-1,,1,-1,-1,"""Moron"" is insulting",2,A
+268334,Look at Oklahoma...moron!,1,-1,1,1,-1,-1,Insults interlocutor,3,A
+268334,Look at Oklahoma...moron!,1,-1,1,1,-1,-1,This statement contains insults directed toward another participant.,4,A
+268334,Look at Oklahoma...moron!,-1,-1,1,1,-1,1,name calling,5,A
+268334,Look at Oklahoma...moron!,-1,-1,1,1,-1,0,Definitely insulting.,6,A
+251055,I hope the woman gets help and leaves the jerk permanently.,1,-1,1,1,1,1,"Although this comment identifies some person as a ""jerk"", it genuine seems to be supportive of the victim of said person.",1,B
+251055,I hope the woman gets help and leaves the jerk permanently.,1,-1,1,1,1,1,"I said yes for insult because ""the jerk"" is used to describe an unnamed individual, likely the woman's partner. But with that aside, this is a very supportive comment towards the woman and has no aspects of toxicity.",2,B
+251055,I hope the woman gets help and leaves the jerk permanently.,1,1,1,1,1,1,Not toxic; a potentially supportive comment.,3,B
+251055,I hope the woman gets help and leaves the jerk permanently.,1,1,1,1,1,1,What is the jerk,4,B
+251055,I hope the woman gets help and leaves the jerk permanently.,1,-1,1,1,1,1,"The 3rd person is described as a jerk, but that doesnt rise to a toxic description.",1,A
+251055,I hope the woman gets help and leaves the jerk permanently.,1,1,1,1,1,1,Not toxic,2,A
+251055,I hope the woman gets help and leaves the jerk permanently.,1,-1,1,1,1,1,"This is insulting the ""jerk"", but I don't have enough context to know what this ""jerk"" did, and it might be warranted.",3,A
+251055,I hope the woman gets help and leaves the jerk permanently.,1,1,1,1,1,1,"""Jerk"" is mild, and in this statement is not referring to anyone involved in the conversation or a group.",4,A
+251055,I hope the woman gets help and leaves the jerk permanently.,1,0,1,1,0,1,"Not sure about the tone of this one. Also, there are two subjects.",5,A
+251055,I hope the woman gets help and leaves the jerk permanently.,1,1,1,1,1,1,"I don't think this is toxic, even if it does speak ill of an individual.  But maybe it is? I'm assuming the ""jerk"" is abusive, right?",6,A
